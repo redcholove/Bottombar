@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Buttombaritemone"
+        android:icon="@drawable/ic_recents"
+        android:title="動態">
+    </item>
+
+    <item android:id="@+id/Buttombaritemtwo"
+        android:icon="@drawable/ic_restaurants"
+        android:title="餐廳">
+    </item>
+
+    <item android:id="@+id/Buttombaritemthree"
+        android:icon="@drawable/ic_favorites"
+        android:title="喜愛">
+    </item>
+
+    <item android:id="@+id/Buttombaritemfour"
+        android:icon="@drawable/ic_nearby"
+        android:title="地圖">
+    </item>
+
+    <item android:id="@+id/Buttombaritemfive"
+        android:icon="@drawable/ic_friends"
+        android:title="帳號">
+    </item>
+</menu>
